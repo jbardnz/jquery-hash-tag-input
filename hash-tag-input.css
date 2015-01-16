@@ -1,0 +1,21 @@
+.bubble-hash-tag{
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    padding: 5px 5px;
+}
+.hash-tag-input{
+    width: 100%;
+    height: 40px;
+    padding: 8px 5px;
+    font-weight: normal;
+    background-color: #f2f2f2;
+}
+.hash-tag-input:focus{
+    outline: 0;
+}
+.hash-tag{
+    font-weight: bold;
+}
+.hash-tag.editing{
+    font-weight: normal;
+}
